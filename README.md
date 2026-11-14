@@ -5,37 +5,47 @@
 
 ## Buenas, soy Alexandru
 
-Me gustan la **ciberseguridad**, Linux y hacer herramientas que me resulten útiles. Aquí voy subiendo mi TFG, proyectos personales y cosas que pruebo por mi cuenta.
+Me gustan la **ciberseguridad**, Linux y hacer herramientas que me resulten útiles. Aquí están mis proyectos personales y mi TFG.
 
 En algunos proyectos también programo con ayuda de **IA**. La uso para escribir parte del código, probar ideas y resolver problemas.
 
-### TFG · Agentes de IA en CyberBattleSim
+## Proyectos
 
-Mi Trabajo de Fin de Grado trata sobre agentes de IA en simulaciones de ciberseguridad: cómo toman decisiones y cómo comparar su comportamiento dentro de CyberBattleSim.
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/alexandruraboaca00/TFG-Agentes-IA-CyberBattleSim"><img src="assets/previews/tfg.svg" alt="TFG: captura real de una primera prueba de agentes en CyberBattleSim" width="100%"></a>
+<h3>TFG · CyberBattleSim</h3>
+<p>Mi TFG sobre agentes de IA en simulaciones de ciberseguridad: decisiones, comportamiento y evaluación.</p>
+<p><sub>En desarrollo; la imagen muestra una primera prueba real. Empezó en mi otra cuenta, Alrx666, y conserva el historial.</sub></p>
+<p><a href="https://github.com/alexandruraboaca00/TFG-Agentes-IA-CyberBattleSim"><strong>Ver el TFG →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/alexandruraboaca00/reels-knowledge"><img src="assets/previews/reels.svg" alt="reels-knowledge: diagrama del proceso de vídeo a transcripción, análisis local y notas Markdown" width="100%"></a>
+<h3>reels-knowledge</h3>
+<p>Vídeos y reels a notas para <strong>Obsidian</strong>, con transcripción, fotogramas y enlaces. Modelos en local.</p>
+<p><sub>Me gusta poder sacar de un vídeo una nota que luego puedo consultar.</sub></p>
+<p><a href="https://github.com/alexandruraboaca00/reels-knowledge"><strong>Ver reels-knowledge →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/alexandruraboaca00/cvpass"><img src="assets/previews/cvpass.svg" alt="CVPass: captura real del editor con datos de demostración" width="100%"></a>
+<h3>CVPass</h3>
+<p>Editor de currículums para Linux. Guarda los datos en local, funciona offline y exporta a PDF.</p>
+<p><sub>TypeScript · React · Electron · SQLite</sub></p>
+<p><a href="https://github.com/alexandruraboaca00/cvpass"><strong>Ver CVPass →</strong></a> · <a href="https://github.com/alexandruraboaca00/cvpass/blob/main/docs/screenshots/editor.png">Captura completa</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/alexandruraboaca00/FBI_theme_Login_GUI"><img src="assets/previews/fbi.svg" alt="FBI Theme: captura real de la pantalla de acceso SDDM con mapa y estética CRT" width="100%"></a>
+<h3>FBI Theme</h3>
+<p>Mi tema para SDDM, con estética de terminal, mapa animado, tráfico marítimo decorativo y efecto CRT.</p>
+<p><sub>Qt / QML · SDDM · KDE Plasma</sub></p>
+<p><a href="https://github.com/alexandruraboaca00/FBI_theme_Login_GUI"><strong>Ver el tema →</strong></a> · <a href="https://github.com/alexandruraboaca00/FBI_theme_Login_GUI/blob/main/docs/media/preview.gif">Demo animada</a></p>
+</td>
+</tr>
+</table>
 
-Está en una fase inicial de análisis del entorno y pruebas con los agentes de referencia. La integración de agentes basados en modelos de lenguaje es una de las siguientes líneas del trabajo.
-
-[**Ver el TFG →**](https://github.com/alexandruraboaca00/TFG-Agentes-IA-CyberBattleSim)
-
-<sub>Empezó en mi otra cuenta, Alrx666. Ahora también está en esta, con el historial original.</sub>
-
-### reels-knowledge
-
-Una herramienta para convertir vídeos y reels en notas para **Obsidian**. Usa la transcripción y los fotogramas del vídeo para generar Markdown con enlaces e índices; el procesamiento con los modelos se hace en el equipo.
-
-Me gusta especialmente cómo pasa de un vídeo a una nota que puedo consultar después.
-
-<sub>Python · Faster-Whisper · Ollama · FFmpeg · SQLite</sub>
-
-[**Ver reels-knowledge →**](https://github.com/alexandruraboaca00/reels-knowledge)
-
-### Otros proyectos
-
-- [**CVPass**](https://github.com/alexandruraboaca00/cvpass): editor de currículums para Linux, con datos en local y exportación a PDF.
-- [**FBI Theme**](https://github.com/alexandruraboaca00/FBI_theme_Login_GUI): mi tema para SDDM, con estética de terminal, mapa animado y efecto CRT.
-
-### Tecnologías que aparecen por aquí
+### Tecnologías
 
 `Python` · `TypeScript` · `React` · `Electron` · `SQLite` · `Qt / QML` · `Linux` · `Git`
-
-[Todos mis repositorios](https://github.com/alexandruraboaca00?tab=repositories)
