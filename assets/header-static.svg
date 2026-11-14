@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandru — Desarrollo, Linux y ciberseguridad</title>
+  <desc id="desc">Una terminal oscura junto a un radar con un escudo. Ilustración decorativa original.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a111c"/><stop offset="1" stop-color="#0c1c26"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1f635c" stop-opacity=".22"/><stop offset="1" stop-color="#1f635c" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#b1d4d9" stroke-opacity=".042"/></pattern>
+    <linearGradient id="line"><stop stop-color="#67e8c4" stop-opacity="0"/><stop offset=".5" stop-color="#67e8c4"/><stop offset="1" stop-color="#67e8c4" stop-opacity="0"/></linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="430" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="430" fill="url(#bg)"/>
+    <rect width="1200" height="430" fill="url(#grid)"/>
+    <ellipse cx="946" cy="205" rx="290" ry="250" fill="url(#halo)"/>
+    <path d="M714 0V430" stroke="#b1d4d9" stroke-opacity=".07"/>
+    <path d="M0 381H1200" stroke="#b1d4d9" stroke-opacity=".08"/>
+    <path d="M35 58V34H59M1141 34H1165V58M35 346V369H59M1141 369H1165V346" fill="none" stroke="#67e8c4" stroke-opacity=".35"/>
+    <g font-family="'DejaVu Sans Mono',monospace" font-size="13" letter-spacing="2" fill="#8da7b3">
+      <text x="65" y="57">PERSONAL LAB</text>
+      <text x="1133" y="57" text-anchor="end">SYSTEMS / SECURITY</text>
+    </g>
+    <g font-family="'DejaVu Sans',sans-serif">
+      <text x="64" y="161" font-size="76" font-weight="700" letter-spacing="-3" fill="#eff5f7">Alexandru<tspan fill="#67e8c4">.</tspan></text>
+      <text x="67" y="205" font-family="'DejaVu Sans Mono',monospace" font-size="17" fill="#90a5b3">@alexandruraboaca00</text>
+      <text x="65" y="269" font-size="28" fill="#c5d5dc">Código, sistemas y curiosidad.</text>
+    </g>
+    <g font-family="'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="1.2">
+      <rect x="65" y="301" width="133" height="32" rx="5" fill="#67e8c4" fill-opacity=".08" stroke="#67e8c4" stroke-opacity=".24"/>
+      <text x="131.5" y="322" text-anchor="middle" fill="#8debd3">DESARROLLO</text>
+      <rect x="210" y="301" width="87" height="32" rx="5" fill="#67e8c4" fill-opacity=".08" stroke="#67e8c4" stroke-opacity=".24"/>
+      <text x="253.5" y="322" text-anchor="middle" fill="#8debd3">LINUX</text>
+      <rect x="309" y="301" width="169" height="32" rx="5" fill="#67e8c4" fill-opacity=".08" stroke="#67e8c4" stroke-opacity=".24"/>
+      <text x="393.5" y="322" text-anchor="middle" fill="#8debd3">CIBERSEGURIDAD</text>
+    </g>
+    <g fill="none" stroke="#67e8c4">
+      <circle cx="946" cy="205" r="132" stroke-opacity=".25"/>
+      <circle cx="946" cy="205" r="96" stroke-opacity=".14"/>
+      <circle cx="946" cy="205" r="60" stroke-opacity=".13"/>
+      <path d="M790 205H1102M946 49V361" stroke-opacity=".13"/>
+      <g stroke-opacity=".3"><path d="M1091.00 205.00 L1100.00 205.00"/><path d="M1094.18 220.57 L1098.16 220.99"/><path d="M1091.74 235.98 L1095.66 236.81"/><path d="M1087.71 251.04 L1091.51 252.28"/><path d="M1082.12 265.60 L1085.77 267.23"/><path d="M1071.57 277.50 L1079.37 282.00"/><path d="M1066.54 292.58 L1069.78 294.93"/><path d="M1056.73 304.70 L1059.70 307.38"/><path d="M1045.70 315.73 L1048.38 318.70"/><path d="M1033.58 325.54 L1035.93 328.78"/><path d="M1018.50 330.57 L1023.00 338.37"/><path d="M1006.60 341.12 L1008.23 344.77"/><path d="M992.04 346.71 L993.28 350.51"/><path d="M976.98 350.74 L977.81 354.66"/><path d="M961.57 353.18 L961.99 357.16"/><path d="M946.00 350.00 L946.00 359.00"/><path d="M930.43 353.18 L930.01 357.16"/><path d="M915.02 350.74 L914.19 354.66"/><path d="M899.96 346.71 L898.72 350.51"/><path d="M885.40 341.12 L883.77 344.77"/><path d="M873.50 330.57 L869.00 338.37"/><path d="M858.42 325.54 L856.07 328.78"/><path d="M846.30 315.73 L843.62 318.70"/><path d="M835.27 304.70 L832.30 307.38"/><path d="M825.46 292.58 L822.22 294.93"/><path d="M820.43 277.50 L812.63 282.00"/><path d="M809.88 265.60 L806.23 267.23"/><path d="M804.29 251.04 L800.49 252.28"/><path d="M800.26 235.98 L796.34 236.81"/><path d="M797.82 220.57 L793.84 220.99"/><path d="M801.00 205.00 L792.00 205.00"/><path d="M797.82 189.43 L793.84 189.01"/><path d="M800.26 174.02 L796.34 173.19"/><path d="M804.29 158.96 L800.49 157.72"/><path d="M809.88 144.40 L806.23 142.77"/><path d="M820.43 132.50 L812.63 128.00"/><path d="M825.46 117.42 L822.22 115.07"/><path d="M835.27 105.30 L832.30 102.62"/><path d="M846.30 94.27 L843.62 91.30"/><path d="M858.42 84.46 L856.07 81.22"/><path d="M873.50 79.43 L869.00 71.63"/><path d="M885.40 68.88 L883.77 65.23"/><path d="M899.96 63.29 L898.72 59.49"/><path d="M915.02 59.26 L914.19 55.34"/><path d="M930.43 56.82 L930.01 52.84"/><path d="M946.00 60.00 L946.00 51.00"/><path d="M961.57 56.82 L961.99 52.84"/><path d="M976.98 59.26 L977.81 55.34"/><path d="M992.04 63.29 L993.28 59.49"/><path d="M1006.60 68.88 L1008.23 65.23"/><path d="M1018.50 79.43 L1023.00 71.63"/><path d="M1033.58 84.46 L1035.93 81.22"/><path d="M1045.70 94.27 L1048.38 91.30"/><path d="M1056.73 105.30 L1059.70 102.62"/><path d="M1066.54 117.42 L1069.78 115.07"/><path d="M1071.57 132.50 L1079.37 128.00"/><path d="M1082.12 144.40 L1085.77 142.77"/><path d="M1087.71 158.96 L1091.51 157.72"/><path d="M1091.74 174.02 L1095.66 173.19"/><path d="M1094.18 189.43 L1098.16 189.01"/></g>
+    </g>
+    <path d="M946 205 L1039.34 111.66 A132 132 0 0 0 1034.33 106.90 Z" fill="#67e8c4" opacity="0.120"/><path d="M946 205 L1034.33 106.90 A132 132 0 0 0 1029.07 102.42 Z" fill="#67e8c4" opacity="0.112"/><path d="M946 205 L1029.07 102.42 A132 132 0 0 0 1023.59 98.21 Z" fill="#67e8c4" opacity="0.104"/><path d="M946 205 L1023.59 98.21 A132 132 0 0 0 1017.89 94.30 Z" fill="#67e8c4" opacity="0.096"/><path d="M946 205 L1017.89 94.30 A132 132 0 0 0 1012.00 90.68 Z" fill="#67e8c4" opacity="0.088"/><path d="M946 205 L1012.00 90.68 A132 132 0 0 0 1005.93 87.39 Z" fill="#67e8c4" opacity="0.080"/><path d="M946 205 L1005.93 87.39 A132 132 0 0 0 999.69 84.41 Z" fill="#67e8c4" opacity="0.072"/><path d="M946 205 L999.69 84.41 A132 132 0 0 0 993.30 81.77 Z" fill="#67e8c4" opacity="0.064"/><path d="M946 205 L993.30 81.77 A132 132 0 0 0 986.79 79.46 Z" fill="#67e8c4" opacity="0.056"/><path d="M946 205 L986.79 79.46 A132 132 0 0 0 980.16 77.50 Z" fill="#67e8c4" opacity="0.048"/><path d="M946 205 L980.16 77.50 A132 132 0 0 0 973.44 75.88 Z" fill="#67e8c4" opacity="0.040"/><path d="M946 205 L973.44 75.88 A132 132 0 0 0 966.65 74.63 Z" fill="#67e8c4" opacity="0.032"/><path d="M946 205 L966.65 74.63 A132 132 0 0 0 959.80 73.72 Z" fill="#67e8c4" opacity="0.024"/><path d="M946 205 L959.80 73.72 A132 132 0 0 0 952.91 73.18 Z" fill="#67e8c4" opacity="0.016"/><path d="M946 205 L952.91 73.18 A132 132 0 0 0 946.00 73.00 Z" fill="#67e8c4" opacity="0.008"/>
+    <path d="M946 205L1039.34 111.66" stroke="#67e8c4" stroke-width="1.5" opacity=".75"/>
+    <circle cx="875" cy="123" r="7.38" fill="none" stroke="#67e8c4" opacity="0.333"/><circle cx="875" cy="123" r="3.3" fill="#67e8c4"/><circle cx="1038" cy="174" r="11.74" fill="none" stroke="#67e8c4" opacity="0.245"/><circle cx="1038" cy="174" r="3.3" fill="#67e8c4"/><circle cx="983" cy="306" r="16.11" fill="none" stroke="#67e8c4" opacity="0.158"/><circle cx="983" cy="306" r="3.3" fill="#67e8c4"/><circle cx="843" cy="250" r="20.48" fill="none" stroke="#67e8c4" opacity="0.070"/><circle cx="843" cy="250" r="3.3" fill="#67e8c4"/>
+    <path d="M946 151L984 166V201C984 227 969 247 946 258C923 247 908 227 908 201V166Z" fill="#0c2029" stroke="#81f0d0" stroke-width="2"/>
+    <path d="M935 198V186A11 11 0 0 1 957 186V198" fill="none" stroke="#81f0d0" stroke-width="2.5"/>
+    <rect x="930" y="198" width="32" height="26" rx="4" fill="#67e8c4" fill-opacity=".12" stroke="#81f0d0" stroke-width="1.8"/>
+    <circle cx="946" cy="209" r="2.5" fill="#81f0d0"/>
+    <path d="M946 211V216" stroke="#81f0d0" stroke-width="2"/>
+    <g font-family="'DejaVu Sans Mono',monospace" font-size="12" fill="#8da7b3" letter-spacing="1.2">
+      <text x="946" y="354" text-anchor="middle">BUILD · EXPLORE · LEARN</text>
+      <text x="65" y="411"><tspan fill="#67e8c4">~ $</tspan> learning by building</text>
+      <rect x="273" y="398" width="7" height="15" fill="#67e8c4" opacity="1"/>
+      <text x="1133" y="411" text-anchor="end" fill="#637f8d">DEVELOPMENT / SYSTEMS / SECURITY</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="429" rx="21.5" fill="none" stroke="#b1d4d9" stroke-opacity=".13"/>
+</svg>

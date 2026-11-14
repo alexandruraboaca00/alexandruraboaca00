@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="215" viewBox="0 0 560 215" role="img" aria-labelledby="title">
+  <title id="title">FBI Theme — un login con personalidad</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1521"/><stop offset="1" stop-color="#101f2c"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="559" height="214" rx="12" fill="url(#bg)" stroke="#28404d"/>
+  <path d="M26 34H44" stroke="#67e8c4" stroke-width="2"/>
+  <text x="54" y="38" font-family="'DejaVu Sans Mono',monospace" font-size="10" letter-spacing="1.3" fill="#a1b4be">02 / LINUX CUSTOMIZATION</text>
+  <text x="27" y="110" font-family="'DejaVu Sans',sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5" fill="#eff5f7">FBI Theme</text>
+  <text x="29" y="151" font-family="'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing=".8" fill="#67e8c4">UN LOGIN CON PERSONALIDAD</text>
+  <path d="M29 184H316" stroke="#28404d"/>
+  <rect x="347" y="52" width="171" height="114" rx="7" fill="#0c2328" stroke="#67e8c4" stroke-opacity=".45"/>
+        <path d="M347 74H518" stroke="#67e8c4" stroke-opacity=".22"/>
+        <circle cx="360" cy="63" r="2.5" fill="#67e8c4"/><circle cx="369" cy="63" r="2.5" fill="#67e8c4" opacity=".4"/>
+        <g fill="none" stroke="#67e8c4" stroke-opacity=".18"><circle cx="433" cy="120" r="34"/><ellipse cx="433" cy="120" rx="16" ry="34"/><path d="M399 120H467M404 104H462M404 136H462"/></g>
+        <path d="M403 141L429 115L452 123L476 96" fill="none" stroke="#67e8c4" stroke-opacity=".55"/>
+        <g fill="#67e8c4"><circle cx="403" cy="141" r="3"/><circle cx="429" cy="115" r="3"/><circle cx="452" cy="123" r="3"/><circle cx="476" cy="96" r="3"/></g>
+        <rect x="387" y="150" width="92" height="29" rx="4" fill="#0b1b24" stroke="#67e8c4" stroke-opacity=".5"/>
+        <path d="M399 160L404 164L399 168M411 168H423" fill="none" stroke="#67e8c4" stroke-width="2"/>
+</svg>

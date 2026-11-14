@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="215" viewBox="0 0 560 215" role="img" aria-labelledby="title">
+  <title id="title">CVPass — tus datos, en tu equipo</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1521"/><stop offset="1" stop-color="#101f2c"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="559" height="214" rx="12" fill="url(#bg)" stroke="#28404d"/>
+  <path d="M26 34H44" stroke="#83baff" stroke-width="2"/>
+  <text x="54" y="38" font-family="'DejaVu Sans Mono',monospace" font-size="10" letter-spacing="1.3" fill="#a1b4be">01 / DESKTOP APP</text>
+  <text x="27" y="110" font-family="'DejaVu Sans',sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5" fill="#eff5f7">CVPass</text>
+  <text x="29" y="151" font-family="'DejaVu Sans Mono',monospace" font-size="10.5" letter-spacing=".8" fill="#83baff">TUS DATOS, EN TU EQUIPO</text>
+  <path d="M29 184H316" stroke="#28404d"/>
+  <rect x="347" y="52" width="171" height="114" rx="7" fill="#101f32" stroke="#83baff" stroke-opacity=".45"/>
+        <path d="M347 74H518M393 74V166" stroke="#83baff" stroke-opacity=".22"/>
+        <circle cx="360" cy="63" r="2.5" fill="#83baff"/><circle cx="369" cy="63" r="2.5" fill="#83baff" opacity=".4"/>
+        <path d="M359 91H381M359 104H376M359 117H380" stroke="#83baff" stroke-opacity=".35" stroke-width="3"/>
+        <rect x="412" y="86" width="75" height="92" rx="3" fill="#d3e5f8"/>
+        <circle cx="430" cy="103" r="7" fill="#3c608b"/>
+        <path d="M444 100H475M444 106H464M423 121H475M423 129H475M423 141H461M423 149H475M423 157H470" stroke="#536f90" stroke-width="2.5"/>
+        <circle cx="504" cy="159" r="20" fill="#112e40" stroke="#83baff" stroke-opacity=".4"/>
+        <path d="M495 159L501 165L513 153" fill="none" stroke="#83baff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
