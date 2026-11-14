@@ -1,66 +1,41 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.svg">
-  <img src="assets/header.gif" alt="Alexandru — desarrollo, Linux y ciberseguridad. Cabecera oscura con un radar animado." width="100%">
+  <img src="assets/header.gif" alt="Alexandru. Terminal negra con letras verdes cayendo al estilo Matrix." width="100%">
 </picture>
 
-## Construir. Entender. Proteger.
+## Buenas, soy Alexandru
 
-Soy **Alexandru**. Me gusta crear herramientas útiles, cuidar las interfaces y entender cómo funcionan los sistemas por dentro. Por aquí encontrarás desarrollo, Linux y mi interés por la **ciberseguridad**.
+Me gustan la **ciberseguridad**, Linux y hacer herramientas que me resulten útiles. Aquí voy subiendo mi TFG, proyectos personales y cosas que pruebo por mi cuenta.
 
-[Mis repositorios](https://github.com/alexandruraboaca00?tab=repositories) · [CVPass](https://github.com/alexandruraboaca00/cvpass) · [FBI Theme](https://github.com/alexandruraboaca00/FBI_theme_Login_GUI)
+En algunos proyectos también programo con ayuda de **IA**. La uso para escribir parte del código, probar ideas y resolver problemas.
 
-### Proyectos destacados
+### TFG · Agentes de IA en CyberBattleSim
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alexandruraboaca00/cvpass"><img src="assets/cvpass.svg" alt="01 · CVPass — editor de currículums para Linux" width="100%"></a>
-      <h4>CVPass</h4>
-      <p>Un editor de currículums de escritorio: datos en local, funcionamiento offline y exportación a PDF.</p>
-      <p><sub>TypeScript · React · Electron · SQLite</sub></p>
-      <a href="https://github.com/alexandruraboaca00/cvpass">Explorar CVPass →</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/alexandruraboaca00/FBI_theme_Login_GUI"><img src="assets/fbi-theme.svg" alt="02 · FBI Theme — pantalla de acceso para SDDM con estética CRT" width="100%"></a>
-      <h4>FBI Theme</h4>
-      <p>Una pantalla de acceso para Linux con estética CRT, mapa animado y detalles de terminal.</p>
-      <p><sub>Qt 6 · QML · SDDM · KDE Plasma</sub></p>
-      <a href="https://github.com/alexandruraboaca00/FBI_theme_Login_GUI">Explorar el tema →</a>
-    </td>
-  </tr>
-</table>
+Mi Trabajo de Fin de Grado trata sobre agentes de IA en simulaciones de ciberseguridad: cómo toman decisiones y cómo comparar su comportamiento dentro de CyberBattleSim.
 
-<details>
-<summary><strong>Ver los proyectos por dentro</strong> · capturas y demostración</summary>
+Está en una fase inicial de análisis del entorno y pruebas con los agentes de referencia. La integración de agentes basados en modelos de lenguaje es una de las siguientes líneas del trabajo.
 
-#### CVPass
+[**Ver el TFG →**](https://github.com/alexandruraboaca00/TFG-Agentes-IA-CyberBattleSim)
 
-![Biblioteca de CVPass con currículums de demostración](https://raw.githubusercontent.com/alexandruraboaca00/cvpass/main/docs/screenshots/library.png)
+<sub>Empezó en mi otra cuenta, Alrx666. Ahora también está en esta, con el historial original.</sub>
 
-#### FBI Theme Login GUI
+### reels-knowledge
 
-![Demostración animada del tema para SDDM: mapa, partículas y tráfico marítimo decorativo](https://raw.githubusercontent.com/alexandruraboaca00/FBI_theme_Login_GUI/main/docs/media/preview.gif)
+Una herramienta para convertir vídeos y reels en notas para **Obsidian**. Usa la transcripción y los fotogramas del vídeo para generar Markdown con enlaces e índices; el procesamiento con los modelos se hace en el equipo.
 
-</details>
+Me gusta especialmente cómo pasa de un vídeo a una nota que puedo consultar después.
 
-### Mi caja de herramientas
+<sub>Python · Faster-Whisper · Ollama · FFmpeg · SQLite</sub>
 
-<p>
-  <img src="assets/tech-typescript.svg" alt="TypeScript" height="30">
-  <img src="assets/tech-react.svg" alt="React" height="30">
-  <img src="assets/tech-electron.svg" alt="Electron" height="30">
-  <img src="assets/tech-sqlite.svg" alt="SQLite" height="30">
-  <img src="assets/tech-qt-qml.svg" alt="Qt / QML" height="30">
-  <img src="assets/tech-linux.svg" alt="Linux" height="30">
-  <img src="assets/tech-git.svg" alt="Git" height="30">
-</p>
+[**Ver reels-knowledge →**](https://github.com/alexandruraboaca00/reels-knowledge)
 
-### En el radar
+### Otros proyectos
 
-- **Ciberseguridad:** entender cómo funcionan los sistemas y cómo protegerlos.
-- **Linux:** personalizar el entorno y explorar lo que hay debajo de la interfaz.
-- **Privacidad:** herramientas que permiten mantener los datos en tu equipo.
+- [**CVPass**](https://github.com/alexandruraboaca00/cvpass): editor de currículums para Linux, con datos en local y exportación a PDF.
+- [**FBI Theme**](https://github.com/alexandruraboaca00/FBI_theme_Login_GUI): mi tema para SDDM, con estética de terminal, mapa animado y efecto CRT.
 
----
+### Tecnologías que aparecen por aquí
 
-<p align="center"><sub>La curiosidad también se compila.</sub></p>
+`Python` · `TypeScript` · `React` · `Electron` · `SQLite` · `Qt / QML` · `Linux` · `Git`
+
+[Todos mis repositorios](https://github.com/alexandruraboaca00?tab=repositories)
